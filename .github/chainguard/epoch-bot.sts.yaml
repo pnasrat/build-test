@@ -1,5 +1,5 @@
 issuer: https://accounts.google.com
-subject_pattern: "TODO"
+subject: "115488537694340024017"
 
 permissions:
   contents: read
