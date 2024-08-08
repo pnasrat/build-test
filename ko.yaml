@@ -38,3 +38,5 @@ update:
   github:
     identifier: ko-build/ko
     strip-prefix: v
+
+# a surprise change alllll the way at the bottom of the file!
