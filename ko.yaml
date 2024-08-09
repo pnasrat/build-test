@@ -1,8 +1,8 @@
 package:
   name: ko
   version: 0.16.0
-  epoch: 1234
-  description: Simple, fast container image builder for Go applications.
+  epoch: 1235
+  description: did bump the epoch
   copyright:
     - license: Apache-2.0
 
