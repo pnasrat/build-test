@@ -1,5 +1,5 @@
 package:
-  name: apko
+  name: new
   version: 0.17.0
   epoch: 1
   description: Build OCI images using APK directly without Dockerfile
