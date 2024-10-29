@@ -1,4 +1,5 @@
 issuer: https://accounts.google.com
+# These come from ebuild service accounts
 subject_pattern: "(111360287705963047017|116634199059859672625|100619289831364568235)"
 
 permissions:
